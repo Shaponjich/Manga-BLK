@@ -1,0 +1,562 @@
+body{
+	background-color:#0d1a26
+}
+
+a{
+	text-decoration:none;
+	color:white;
+}
+
+.p1{
+	font-family:Oswald;
+	font-size:30px;
+	color:white;
+	text-decoration:none;
+}
+
+.hr1{
+	position:absolute;
+	top:8%;
+	width:99%;
+	height:0,5%
+}
+
+.s1{
+	position:absolute;
+	top:9%;
+	opacity:15%;
+}
+
+.s2{
+	position:absolute;
+	top:40%;
+	left:25%;
+}
+
+.p2{
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	position:absolute;
+	top:85%;
+	left:24%;
+}
+
+.p3{
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	position:absolute;
+	top:90%;
+	left:10%;
+}
+	
+.p4{
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	position:absolute;
+	top:95%;
+	left:14%;
+}
+
+.s3{
+	position:absolute;
+	top:110%;
+	left:19%;
+}
+
+.p5{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:#99ccff;
+	text-shadow:2px 2px black;
+	left:3%;
+}
+
+.s4{
+	position:absolute;
+	left:70%;
+	top:10%;
+}
+
+.p6{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	left:8%;
+	top:25%
+}
+
+.p7{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	left:50%;
+	top:50%
+}
+
+.p8{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	left:8%;
+	top:70%;
+}
+
+.s5{
+	position:absolute;
+	left:10%;
+	top:38%;
+}
+
+.s6{
+	position:absolute;
+	left:60%;
+	top:70%;
+}
+
+
+.s7{
+	position:absolute;
+	left:15%;
+	top:87%;
+}
+
+.s8{
+	position:absolute;
+	left:5%;
+	top:15%;
+}
+
+.s9{
+	position:absolute;
+	left:35%;
+	top:15%;
+}
+
+.s10{
+	position:absolute;
+	left:65%;
+	top:15%;
+}
+
+.s11{
+	position:absolute;
+	left:5%;
+	top:55%;
+}
+
+.s12{
+	position:absolute;
+	left:35%;
+	top:55%;
+}
+
+.s13{
+	position:absolute;
+	left:65%;
+	top:55%;
+}
+
+.s14{
+	position:absolute;
+	left:5%;
+	top:90%;
+}
+
+.s15{
+	position:absolute;
+	left:35%;
+	top:90%;
+}
+
+.s16{
+	position:absolute;
+	left:65%;
+	top:90%;
+}
+.p9{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:12%;
+	left:18%;
+}
+
+.p10{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:12%;
+	left:48%;
+}
+
+.p11{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:12%;
+	left:78%;
+}
+
+.p12{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:53%;
+	left:18%;
+}
+
+.p13{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:53%;
+	left:48%;
+}
+
+.p14{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:53%;
+	left:78%;
+}
+
+.p15{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:88%;
+	left:18%;
+}
+
+.p16{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:88%;
+	left:48%;
+}
+
+.p17{
+	position:absolute;
+	font-family:Oswald;
+	font-size:18px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:88%;
+	left:78%;
+}
+
+.p18{
+	position:absolute;
+	font-family:Oswald;
+	font-size:25px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:15%;
+	left:33%;
+}
+
+.s17{
+	position:absolute;
+	top:41%;
+	left:10%;
+}
+
+.s18{
+	position:absolute;
+	top:40%;
+	left:38%;
+}
+
+.s19{
+	position:absolute;
+	top:40%;
+	left:68%;
+}
+	
+.p19{
+	position:absolute;
+	font-family:Oswald;
+	font-size:25px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:100%;
+	left:9%;
+}
+
+.p20{
+	position:absolute;
+	font-family:Oswald;
+	font-size:25px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:100%;
+	left:37%;
+}
+
+.p21{
+	position:absolute;
+	font-family:Oswald;
+	font-size:25px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:100%;
+	left:67%;
+}
+
+.s20{
+	position:absolute;
+	top:15%;
+	left:5%;
+}	
+
+.p22{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:15%;
+	left:50%;
+}
+
+.s21{
+	position:absolute;
+	top:40%;
+	left:50%;
+}
+
+.s23{
+	position:absolute;
+	top:65%;
+	left:8%;
+}
+
+.p23{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:92%;
+	left:50%;
+}
+
+.s22{
+	position:absolute;
+	top:35%;
+	left:50%;
+}
+
+.p24{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:12%;
+	left:5%;
+}
+
+.p25{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:20%;
+	left:50%;
+}
+
+.iframe-container{
+	position:absolute;
+	top:30%;
+	left:7%;
+	width:100%;
+	padding-bottom:56.25%;
+	height:0;
+}
+
+.iframe-container iframe{
+	position:absolute;
+	top:0;
+	left:0;
+	width:30%;
+	height:30%;
+}
+
+.p26{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:65%;
+	left:2%;
+}
+
+.s23{
+	position:absolute;
+	top:65%;
+	left:10%;
+}
+
+.s24{
+	position:absolute;
+	top:100%;
+	left:30%;
+}
+
+.s25{
+	position:absolute;
+	top:100%;
+	left:50%;
+}
+
+.s26{
+	position:absolute;
+	top:100%;
+	left:70%;
+}
+
+.p29{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:145%;
+	left:10%;
+}
+
+.s27{
+	position:absolute;
+	top:40%;
+	left:55%;	
+}
+
+.s28{
+	position:absolute;
+	top:40%;
+	left:75%;	
+}
+
+.s29{
+	position:absolute;
+	top:160%;
+	left:25%;
+}
+
+.s30{
+	position:absolute;
+	top:75%;
+	left:25%;
+}
+
+.s31{
+	position:absolute;
+	top:89%;
+	left:24%;
+}
+
+.p30{
+	position:absolute;
+	font-family:Oswald;
+	font-size:20px;
+	color:white;
+	text-shadow:2px 2px black;
+	top:75%;
+	left:5%;	
+}
+
+.s32{
+	position:absolute;
+	top:100%;
+	left:10%;
+}
+
+.s33{
+	position:absolute;
+	top:20%;
+	left:10%;
+}
+
+.s34{
+	position:absolute;
+	top:80%;
+	left:40%;
+}
+
+.s35{
+	position:absolute;
+	top:140%;
+	left:10%;
+}
+
+.s36{
+	position:absolute;
+	top:200%;
+	left:40%;
+}
+
+.hr2{
+	position:absolute;
+	top:308%;
+	width:99%;
+	height:0,5%
+}
+
+.s37{
+	position:absolute;
+	top:309%;
+	left:0%;
+	opacity:10%;
+}
+
+.s38{
+	position:absolute;
+	top:260%;
+	left:10%;
+}
+
+.s39{
+	position:absolute;
+	top:320%;
+	left:40%;
+}
+
+.s40{
+	position:absolute;
+	top:380%;
+	left:10%;
+}
